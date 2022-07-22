@@ -1,0 +1,265 @@
+{
+  "faces": [
+    {
+      "suite": "Clubs",
+      "number": "Ace",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/CA.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "2",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C2.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "3",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C3.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "4",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C4.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "5",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C5.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "6",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C6.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "7",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C7.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "8",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C8.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "9",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C9.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "10",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/C10.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "Jack",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/CJ.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "Queen",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/CQ.svg"
+    },
+    {
+      "suite": "Clubs",
+      "number": "King",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/CK.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "Ace",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/DA.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "2",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D2.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "3",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D3.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "4",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D4.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "5",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D5.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "6",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D6.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "7",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D7.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "8",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D8.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "9",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D9.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "10",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/D10.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "Jack",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/DJ.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "Queen",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/DQ.svg"
+    },
+    {
+      "suite": "Diamonds",
+      "number": "King",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/DK.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "Ace",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/HA.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "2",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H2.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "3",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H3.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "4",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H4.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "5",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H5.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "6",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H6.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "7",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H7.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "8",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H8.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "9",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H9.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "10",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/H10.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "Jack",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/HJ.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "Queen",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/HQ.svg"
+    },
+    {
+      "suite": "Hearts",
+      "number": "King",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/HK.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "Ace",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/SA.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "2",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S2.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "3",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S3.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "4",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S4.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "5",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S5.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "6",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S6.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "7",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S7.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "8",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S8.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "9",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S9.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "10",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/S10.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "Jack",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/SJ.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "Queen",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/SQ.svg"
+    },
+    {
+      "suite": "Spades",
+      "number": "King",
+      "path": "https://cdn.statically.io/gh/mamello-justice/cards-assets/main/cards/faces/clker/SK.svg"
+    }
+  ],
+  "backs": []
+}
